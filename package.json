@@ -1,0 +1,22 @@
+{
+  "name": "alexa-skill",
+  "version": "0.0.1",
+  "description": "An example Alexa Skill project that gets weather from forecast.io",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "alexa",
+    "amazon",
+    "echo",
+    "skills"
+  ],
+  "author": "Jordan Kasper",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-app": "^4.0.0",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
+  }
+}
